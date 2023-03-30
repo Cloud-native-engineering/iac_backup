@@ -16,7 +16,7 @@ Options:
   -b, --backup      Start a backup
   -l, --list        List available backups
   -r, --restore     Restore a backup
-  -n; --name        Backup name
+  -n, --name        Backup name
   -s, --source      Set source
   -d, --destination Set destination
 ```
